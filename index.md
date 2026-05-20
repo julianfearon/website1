@@ -4,19 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+ I am a PhD candidate in Earth science at UC Santa Cruz. I study selective evolution of crustaceans in the wake of ancient hyperthermals, such as the mid-Cretaceous OAEs and the PETM.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Mass Extinction Selectivity:** 
+- **Microevolution after Environmental Perturbation:** 
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[May 2026]** Presented at NorCal GeoBiology Conference
 
 {% include_relative _includes/publications.md %}
 
