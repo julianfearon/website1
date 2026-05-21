@@ -5,7 +5,7 @@ main:
     #conference_short: MI
     #conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     pdf: https://ecoevorxiv.org/repository/view/10751/
-   #code: 
-   # bibtex: https://bib.yliu.me/MICCAI23.txt
+    code: 
+    bibtex: 
     image: ./assets/img/teaser_example_2.png
     notes: Preprint
